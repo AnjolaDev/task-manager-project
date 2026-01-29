@@ -35,7 +35,7 @@ TaskItem.jsx – Individual task card; inline editing of status/priority and del
 
 ## SCREENSHOTS
 1. Task Form View
-![Task Form](./screenshots/assets/task-form.png)
+![Task Form](./screenshots/task-form.png)
 
 2. Delete Form View
-![Delete Form](./screenshots/assets/delete-task.png)
+![Delete Form](./screenshots/delete-task.png)
