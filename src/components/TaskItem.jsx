@@ -55,10 +55,6 @@ function TaskItem({ task, onDelete, onUpdate }) {
                     </div>
                 </div>
 
-                <div>
-                    <h1>I Love Habeebah because she's a smart girl</h1>
-                    </div>
-
             {/* Delete button */}
             <button 
             onClick={() => onDelete(task._id)} 
