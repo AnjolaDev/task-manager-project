@@ -88,7 +88,6 @@ function App() {
       };
 
   return (
-    // <div className="min-h-screen bg-gradient-to-br from-blue-100 via-purple-50 to-pink-50 p-6">
     <div className="min-h-screen p-6 relative overflow-hidden bg-gradient-to-br from-pink-200 via-purple-200 to-blue-100">
       <h1 className="text-3xl sm:text-4xl font-extrabold text-center mb-8 uppercase tracking-widest bg-gradient-to-r from-pink-400 via-purple-400 to-yellow-300 bg-clip-text text-transparent">Task Manager</h1>
 
@@ -101,7 +100,7 @@ function App() {
       loading={loading} 
       deleteTask={deleteTask} 
       updateTask={updateTask} />
-    // </div>
+     </div>
   );
 }
 
